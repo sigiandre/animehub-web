@@ -1,4 +1,4 @@
-### 2. `README.md` para el Frontend (`animehub-web`)
+### `README.md` para el Frontend (`animehub-web`)
 
 Guárdalo en la raíz de `E:\Programacion\AnimeHub\animehub-web\README.md`:
 
